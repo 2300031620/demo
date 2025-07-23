@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://balajee-rm.github.io/S109",
+  "homepage": "https://2300031620.github.io/demo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
